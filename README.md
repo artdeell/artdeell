@@ -1,4 +1,4 @@
-# welcum to artdeel's readme
+# welcom to artdeel's readme
 
 i do pojav and autowax, here are my socials:  
 Discord: artDev#7380 (feel free to friend)  
