@@ -10,7 +10,6 @@ Vkontakte: [click](https://vk.com/artdeell)
 
 # check out what i do:  
 in cooperation with @PojavLauncherTeam: [Google Play: PojavLauncher](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)  
-myself: [Google Play: AutoWax](https://play.google.com/store/apps/details?id=git.artdeell.autowax) (yes it violates TGC's terms, what y gonna do about it?)  
 
 [![my statses](https://github-readme-stats.vercel.app/api?username=artdeell)](https://github.com/anuraghazra/github-readme-stats)  
 ![view counter](https://komarev.com/ghpvc/?username=artdeell&label=Views&color=28c6c5&style=flat-square)
