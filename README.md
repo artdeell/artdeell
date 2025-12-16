@@ -1,6 +1,6 @@
 # welcom to artdeel's readme
 
-i do pojav and autowax, here are my socials:  
+i do mojav and autowax, here are my socials:  
 Discord: @artdev (feel free to friend)  
 Degradeland (Twitter): [click](https://twitter.com/_artdeell)  
 PeerTube (Hardlimit Video): [click](https://video.hardlimit.com/c/artdev/)  
