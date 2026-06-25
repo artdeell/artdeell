@@ -9,7 +9,7 @@ Telegram: @artdeell
 Vkontakte: [click](https://vk.com/artdeell)
 
 # check out what i do:  
-myself: [GitHub: MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) (releasing soon)   
+myself: [GitHub: MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) [Play Store](https://play.google.com/store/apps/details?id=git.artdeell.mjlaunch) 
 
 [![my statses](https://github-readme-stats.vercel.app/api?username=artdeell)](https://github.com/anuraghazra/github-readme-stats)  
 ![view counter](https://komarev.com/ghpvc/?username=artdeell&label=Views&color=28c6c5&style=flat-square)
